@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "img": "/img/goku.png",
+    "url": "https://dragonball.guru/goku/"
+  },
+  {
+    "id": 2,
+    "name": "Vegeta",
+    "img": "/img/vegeta.png",
+    "url": "https://dragonball.guru/vegeta/"
+  },
+  {
+    "id": 3,
+    "name": "Krillin",
+    "img": "/img/krillin.png",
+    "url": "https://dragonball.guru/krillin/"
+  },
+  {
+    "id": 4,
+    "name": "Piccolo",
+    "img": "/img/piccolo.png",
+    "url": "https://dragonball.guru/piccolo/"
+  },
+  {
+    "id": 5,
+    "name": "Yamcha",
+    "img": "/img/yamcha.png",
+    "url": "https://dragonball.guru/yamcha/"
+  },
+  {
+    "id": 6,
+    "name": "a17",
+    "img": "/img/a17.png",
+    "url": "https://dragonball.guru/android-17/"
+  }
+]
